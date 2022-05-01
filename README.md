@@ -3,7 +3,7 @@
 This is the origin implementation of SWLHT: 
 
 <p align="center">
-<img src=".\swlht.png" height = "360" alt="" align=center />
+<img src=".\swlht.jpg" height = "360" alt="" align=center />
 <br><br>
 </p>
 
